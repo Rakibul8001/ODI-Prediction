@@ -1,0 +1,94 @@
+opponent team,venue,match condition,Toss,Bat first,Captaincy,Due factor,All rounder,Fast bowler,Tamim,Shakib,Mushfiq,Mash,Mahmudullah,Rubel,Mustafiz,Result
+SA,Away,Day,BD,BD,Mashrafe,0,5,4,1,1,1,1,1,1,0,Loss
+SA,Away,Day,BD,S Africa,Mashrafe,0,4,3,1,1,1,1,1,1,0,Loss
+SA,Away,Day,S Africa,S Africa,Mashrafe,0,5,3,1,1,1,1,1,1,0,Loss
+SA,HM,Day/Night,BD,BD,Mashrafe,0,5,3,1,1,1,1,1,1,1,Loss
+SA,HM,Day/Night,S Africa,S Africa,Mashrafe,0,5,3,1,1,1,1,1,1,1,Win
+SA,HM,Day/Night,S Africa,S Africa,Mashrafe,1,5,3,1,1,1,1,1,1,1,Win
+SA,Away,Day,S Africa,S Africa,Ashraful,0,3,2,1,1,1,1,0,0,0,Loss
+SA,Away,Day,BD,S Africa,Ashraful,0,2,2,1,1,0,0,0,0,0,Loss
+SA,HM,Day,BD,BD,Ashraful,0,2,2,1,1,0,0,0,0,0,Loss
+pak,HM,Day/Night,BD,BD,sakib,0,5,3,1,1,1,1,0,1,0,Win
+pak,HM,Day/Night,pak,pak,Mashrafe,0,5,3,1,1,1,1,0,1,1,Win
+pak,HM,Day/Night,pak,pak,Mashrafe,0,5,3,1,1,1,1,1,1,0,Win
+pak,HM,Day,BD,BD,Mashrafe,0,5,2,1,1,1,0,1,1,0,Loss
+pak,HM,Day,pak,pak,Mashrafe,0,3,2,1,1,1,0,1,1,0,Loss
+pak,HM,Day,pak,pak,Mashrafe,0,5,2,1,1,1,0,1,0,0,Loss
+pak,Away,Day/Night,pak,pak,Ashraful,1,3,1,1,1,0,1,1,0,0,Loss
+pak,Away,Day/Night,BD,BD,Ashraful,1,3,3,1,1,1,1,1,0,0,Loss
+pak,Away,Day,pak,pak,khaled masud,0,1,2,0,0,1,1,0,0,0,Loss
+NZ,HM,Day/Night,BD,BD,Mashrafe,0,4,2,1,0,1,1,1,1,0,Win
+NZ,HM,Day,NZ,NZ,Mashrafe,0,3,2,0,0,1,1,1,1,0,Win
+NZ,HM,Day,BD,BD,Mashrafe,1,3,2,0,1,1,1,1,0,0,Win
+NZ,HM,Day,`NZ,BD,sakib,0,2,2,0,1,1,0,1,1,0,Win
+NZ,HM,Day,BD,BD,sakib,0,2,2,0,1,1,0,1,1,0,Win
+NZ,away,Day/Night,BD,BD,Mashrafe,0,5,3,1,0,1,1,1,1,0,Loss
+NZ,away,Day,NZ,BD,Mashrafe,0,4,3,1,0,1,1,1,0,1,Loss
+NZ,away,Day,BD,NZ,Mashrafe,0,5,4,1,1,1,1,1,1,1,Loss
+NZ,away,Day,BD,BD,Mashrafe,0,5,4,1,1,0,1,1,0,1,Loss
+IND,HM,Day/Night,BD,BD,Mashrafe,0,4,4,1,1,1,1,0,1,1,Win
+IND,HM,Day/Night,IND,IND,Mashrafe,1,4,4,1,1,1,1,1,1,1,Win
+IND,HM,Day/Night,BD,IND,Mashrafe,0,4,3,1,1,1,1,0,1,1,Loss
+IND,HM,Day/Night,BD,BD,Mashrafe,1,4,3,1,1,1,1,1,1,1,Loss
+IND,HM,Day/Night,BD,IND,musfiq,1,4,4,1,1,1,1,1,0,0,Loss
+IND,HM,Day,BD,BD,basar,1,2,2,1,1,1,0,0,0,0,Loss
+IND,HM,Day/Night,BD,IND,Mashrafe,0,3,3,1,1,1,1,1,0,0,Win
+IND,Away,Day/Night,IND,IND,Mashrafe,0,5,3,1,1,1,1,1,1,0,Loss
+IND,Away,Day,IND,IND,basar,0,2,2,1,1,1,1,0,0,0,Win
+ZIM,HM,Day/Night,BD,ZIM,Mashrafe,0,3,3,0,0,1,1,1,0,0,Win
+ZIM,HM,Day/Night,ZIM,BD,Mashrafe,0,3,3,1,1,1,1,1,1,0,Win
+ZIM,HM,Day,ZIM,BD,Mashrafe,0,3,3,1,1,1,1,1,1,0,Win
+ZIM,Away,Day,ZIM,BD,Mashrafe,0,4,3,1,1,1,0,1,1,0,Loss
+ZIM,Away,Day,ZIM,BD,Mashrafe,0,4,3,1,1,1,0,1,1,0,Loss
+ZIM,HM,Day/Night,ZIM,BD,Mashrafe,0,4,3,1,0,1,1,1,1,1,Win
+ZIM,HM,Day/Night,BD,BD,Mashrafe,0,3,3,1,0,1,1,1,1,1,Win
+ZIM,HM,Day/Night,BD,BD,sakib,0,3,2,1,1,1,1,1,1,0,Loss
+ZIM,HM,Day,ZIM,ZIM,sakib,0,2,2,1,1,1,1,1,0,0,Loss
+SRL,Away,Day/Night,BD,BD,Mashrafe,0,4,3,1,1,1,1,1,1,1,Win
+SRL,HM,Day/Night,SRL,SRL,Mashrafe,0,5,4,1,1,1,1,1,1,1,Loss
+SRL,HM,Day/Night,BD,BD,Mashrafe,0,5,4,1,1,1,1,1,1,1,Win
+SRL,Away,Day,BD,SRL,Mashrafe,0,6,3,1,1,1,1,1,0,1,Loss
+SRL,Away,Day/Night,SRL,SRL,Mashrafe,0,4,3,1,1,1,1,1,1,0,Loss
+SRL,Away,Day/Night,SRL,BD,Mashrafe,0,6,3,1,1,1,1,1,0,1,Win
+SRL,Away,Day/Night,SRL,SRL,Musfiq,1,3,2,0,0,1,0,1,0,0,Win
+SRL,HM,Day/Night,BD,BD,Musfiq,0,5,3,1,1,1,1,1,1,1,Loss
+SRL,HM,Day/Night,BD,SRL,Musfiq,1,4,2,1,1,1,1,1,0,0,Loss
+WI,Away,Day,WI,WI,sakib,0,2,3,1,1,1,0,1,1,0,Win
+WI,HM,Day/Night,BD,BD,sakib,0,2,2,1,1,1,0,0,1,0,Loss
+WI,HM,Day/Night,BD,BD,musfiq,0,2,3,1,1,1,0,0,1,0,Loss
+WI,HM,Day,WI,WI,musfiq,0,2,3,1,1,1,0,0,1,0,Win
+WI,Away,Day,WI,WI,musfiq,0,3,4,1,0,1,1,1,0,0,Loss
+WI,HM,Day,WI,BD,musfiq,0,2,3,1,0,1,1,1,0,0,Win
+WI,HM,Day/Night,BD,WI,Mashrafe,0,3,4,1,1,1,1,1,0,1,Win
+WI,HM,Day/Night,WI,WI,Mashrafe,0,3,3,1,1,1,1,1,1,1,Win
+WI,Away,Day/Night,BD,WI,Mashrafe,0,3,4,1,1,1,1,1,1,1,Loss
+ENG,Away,Day,ENG,BD,Mashrafe,0,2,3,1,,,,,,,Loss
+ENG,HM,Day/Night,ENG,BD,Mashrafe,0,3,3,1,1,1,1,1,0,0,Loss
+ENG,HM,Day/Night,ENG,BD,Mashrafe,0,3,4,1,1,1,1,1,0,0,Win
+ENG,HM,Day/Night,ENG,ENG,Mashrafe,0,3,4,1,1,1,1,1,0,0,Loss
+ENG,Away,Day/Night,ENG,BD,Mashrafe,0,3,3,1,1,1,1,1,1,0,Win
+ENG,HM,Day/Night,BD,ENG,sakib,1,2,3,1,1,1,0,1,1,0,Win
+ENG,Away,Day,BD,ENG,Mashrafe,0,3,2,1,1,0,1,1,1,0,Loss
+ENG,Away,Day,ENG,BD,Mashrafe,0,3,3,1,1,0,1,1,1,0,Win
+ENG,Away,Day/Night,BD,BD,Mashrafe,0,2,3,1,1,1,1,1,0,0,Loss
+AUS,HM,Day/Night,AUS,AUS,sakib,0,2,4,1,1,1,1,1,0,0,Loss
+AUS,HM,Day,BD,BD,sakib,0,2,3,1,1,1,0,1,1,0,Loss
+AUS,HM,Day,BD,AUS,sakib,0,2,3,1,1,1,1,1,0,0,Loss
+AUS,Away,Day,AUS,AUS,Ashraful,0,3,4,1,1,0,1,1,0,0,Loss
+AUS,Away,Day,BD,BD,Ashraful,0,2,2,1,1,0,1,0,0,0,Loss
+AUS,Away,Day,AUS,BD,basar,0,2,2,1,1,1,1,0,0,0,Loss
+SCOT,Away,Day,BD,SCOT,Mashrafe,0,3,4,1,1,1,1,1,1,0,Win
+SCOT,HM,Day,SCOT,BD,Mashrafe,0,2,2,0,1,1,1,0,0,0,Win
+SCOT,HM,Day,BD,SCOT,basar,0,3,2,0,1,1,1,0,0,0,Win
+AFG,HM,Day/Night,BD,AFG,Mushfiq,0,2,2,0,0,1,0,0,1,0,Loss
+AFG,HM,Day/Night,BD,BD,Mashrafe,0,3,3,1,1,1,1,1,1,0,Win
+AFG,HM,Day,Afg,BD,Mashrafe,0,3,4,1,1,1,1,1,1,0,Loss
+AFG,HM,Day/Night,BD,BD,Mashrafe,0,3,4,1,1,1,1,1,0,0,Win
+AFG,Away,Day/Night,Afg,Afg,Mashrafe,0,3,4,0,1,0,1,1,1,0,Loss
+AFG,Away,Day/Night,BD,BD,Mashrafe,0,3,4,0,1,1,1,1,0,0,Win
+IRE,Away,Day,IRE,IRE,Mashrafe,0,2,3,1,1,1,1,1,0,0,Win
+IRE,Away,Day,IRE,IRE,Bashar,0,2,2,1,1,1,1,0,0,0,Loss
+IRE,Away,Day,IRE,IRE,Mashrafe,0,4,4,1,1,1,1,1,1,0,Win
+IRE,Away,Day,BD,BD,Mashrafe,0,4,3,1,1,1,1,1,1,1,Win
+IRE,HM,Day/Night,BD,BD,Ashraful,1,3,2,1,1,0,0,1,0,0,Win
+IRE,HM,,IRE,IRE,Ashraful,1,3,2,1,1,0,1,1,0,0,Win
